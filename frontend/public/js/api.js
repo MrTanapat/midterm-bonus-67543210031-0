@@ -74,5 +74,5 @@ class StudentAPI {
 }
 
 // ✅ ประกาศ Instance ไว้ที่นี่เพื่อให้เป็น Global Variable
-const API_BASE_URL = 'http://localhost:3000/api';
+const API_BASE_URL = 'http://192.168.1.6:3000/api';
 const api = new StudentAPI(API_BASE_URL);
