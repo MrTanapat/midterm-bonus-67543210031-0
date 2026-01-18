@@ -86,3 +86,10 @@ cd frontend
 
 ## Screenshots
 <img width="1100" height="660" alt="image" src="https://github.com/user-attachments/assets/6ad8c13f-d3b0-46c3-8644-0831b6cdf194" />
+
+<div align="center">
+  <h3>🎬 Student Management System Video Demo</h3>
+  <a href="https://youtu.be/0UT2XxcNEZQ">
+    <img src="https://img.youtube.com/vi/0UT2XxcNEZQ/maxresdefault.jpg" alt="Video Demo" style="width:100%; max-width:600px;">
+  </a>
+</div>
